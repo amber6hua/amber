@@ -4,12 +4,7 @@ You can use the [editor on GitHub](https://github.com/amber6hua/amber/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![avatar](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517301624800&di=1f8851af59f3d7c06b6e73e469e023ff&imgtype=0&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201608%2F17%2F20160817115342_aeYLS.jpeg)
-
-作者：tahr
-链接：https://www.zhihu.com/question/21065229/answer/132993179
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
+测试怎么插入外链图片
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
