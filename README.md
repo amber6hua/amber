@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/amber6hua/amber/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-![avatar](http://https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517301624800&di=1f8851af59f3d7c06b6e73e469e023ff&imgtype=0&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201608%2F17%2F20160817115342_aeYLS.jpeg)
+![avatar](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517301624800&di=1f8851af59f3d7c06b6e73e469e023ff&imgtype=0&src=http%3A%2F%2Fimg4.duitang.com%2Fuploads%2Fitem%2F201608%2F17%2F20160817115342_aeYLS.jpeg)
 
 作者：tahr
 链接：https://www.zhihu.com/question/21065229/answer/132993179
